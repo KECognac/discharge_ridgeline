@@ -1,0 +1,12 @@
+name: Discharge_Ridgline
+title: Discharge_Ridgline
+username: kcognac
+account: kcognac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16119472
+bundleId: 11213530
+url: https://kcognac.shinyapps.io/Discharge_Ridgline/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
